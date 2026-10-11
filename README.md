@@ -15,7 +15,7 @@
 
 - 🎓 Pursuing a **B.E. in Information Technology**, building a strong foundation in software development and computer science.
 - 💻 Diploma in **Computer Engineering** with an outstanding **9.54 CGPA**.
-- 👩🏻‍💻 Aspiring **Software Developer**, focused on programming, problem-solving, and software development.
+- 👩🏻‍💻 Aspiring **Software Engineer**, focused on programming, problem-solving, and software development.
 - 🤖 Exploring **Machine Learning and Artificial Intelligence** alongside my software engineering journey.
 - 🚀 Building projects, learning new technologies, and turning ideas into practical solutions.
 
