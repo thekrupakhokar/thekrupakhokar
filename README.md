@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# Hey, I'm Krupa Khokar 👋
+# Hey, I'm Krupa Khokar
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=EF93C4&center=true&vCenter=true&width=650&lines=Aspiring+AI%2FML+Engineer;Exploring+Data+Science;Learning+Machine+Learning;Building+My+Future+in+Technology" alt="Typing introduction">
 
@@ -16,7 +16,7 @@
 
 ## 🌷 About Me
 
-- 🎓 Pursuing a **B.Tech in Information Technology**, building a strong foundation in software and emerging technologies.
+- 🎓 Pursuing a **B.E in Information Technology**, building a strong foundation in software and emerging technologies.
 - 💻 Diploma in **Computer Engineering** with an outstanding **9.54 CGPA**.
 - 🤖 Aspiring **AI/ML Engineer** passionate about Artificial Intelligence, Machine Learning, and Data Science.
 - 🧠 Exploring intelligent systems, data-driven solutions, and practical applications of AI.
@@ -32,7 +32,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>💻 Bachelor's Degree</h3>
-      <b>B.Tech in Information Technology</b>
+      <b>B.E in Information Technology</b>
       <br>
       Currently pursuing
     </td>
