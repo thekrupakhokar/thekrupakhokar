@@ -72,17 +72,40 @@
 
 <div align="center">
 
-### Programming Languages
+### 👨‍💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js" alt="Programming languages">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,js" alt="C, C++, Java, Python, Dart and JavaScript" />
 
-### Tools & Technologies
+### 🌐 Web Development
 
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,postman,fastapi" alt="Tools and technologies">
+<img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS and JavaScript" />
+
+### 📱 Mobile App Development
+
+<img src="https://skillicons.dev/icons?i=flutter,androidstudio" alt="Flutter and Android Studio" />
+
+### 📊 Data Science & Machine Learning
+
+<img src="https://cdn.simpleicons.org/numpy/013243" height="45" alt="NumPy" />
+<img src="https://cdn.simpleicons.org/pandas/150458" height="45" alt="Pandas" />
+<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="45" alt="Scikit-learn" />
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="MySQL and MongoDB" />
+
+### 🛠️ Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and Visual Studio Code" />
+
+### 🚀 Currently Exploring AI/ML
+
+<img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="45" alt="LangChain" />
+<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="45" alt="Google Gemini" />
+<img src="https://raw.githubusercontent.com/chroma-core/chroma/main/docs/assets/chroma-wordmark-color.png" height="45" alt="ChromaDB" />
+</p>
 
 </div>
-
-**Currently exploring:** Pandas, NumPy, Scikit-learn, Google Colab, Machine Learning, LangChain, and Retrieval-Augmented Generation (RAG).
 
 ---
 
