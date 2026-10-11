@@ -33,12 +33,14 @@
     <td width="50%" valign="top">
       <h3>💻 Bachelor's Degree</h3>
       <b>B.Tech in Information Technology</b>
-      <br><br>
+      <br>
       Currently pursuing
     </td>
     <td width="50%" valign="top">
       <h3>🖥️ Diploma</h3>
       <b>Diploma in Computer Engineering</b>
+      <br>
+      <b>CGPA: 9.54</b>
       <br><br>
     </td>
   </tr>
