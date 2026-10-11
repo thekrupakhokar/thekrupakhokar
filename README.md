@@ -20,8 +20,8 @@
 - 💻 Diploma in **Computer Engineering** with an outstanding **9.54 CGPA**.
 - 🤖 Aspiring **AI/ML Engineer** passionate about Artificial Intelligence, Machine Learning, and Data Science.
 - 🧠 Exploring intelligent systems, data-driven solutions, and practical applications of AI.
-- 🥇 **Smart India Hackathon 2025 — Internal Winner**, contributing as a team member.
-- 🏆 **Smart India Hackathon 2026 — Internal Winner (Team Leader)**, securing **6th rank among 80 teams**.
+- 🥇 **Smart India Hackathon 2025 — Internal Hackathon Winner**, contributing as a team member.
+- 🏆 **Smart India Hackathon 2026 — Internal Hackathon Winner (Team Leader)**, securing **6th rank among 80 teams**.
 - 🚀 Driven by curiosity, continuous learning, and the ambition to transform innovative ideas into meaningful technological solutions.
 
 ---
