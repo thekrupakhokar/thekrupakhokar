@@ -1,14 +1,13 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/407d6d27-dd0f-45ff-867c-023a447cff25">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/fc821457-fa8e-47b4-820e-a0bd070c8991">
-  <img alt="Krupa Khokar" src="https://github.com/user-attachments/assets/fc821457-fa8e-47b4-820e-a0bd070c8991" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/cc6fdf78-fb0b-4be3-aae7-8f67a14170ca">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/3fd1fc07-bf9c-4fd3-92da-551d7fb5038d">
+  <img width="100%" alt="Krupa Khokar profile banner" src="https://github.com/user-attachments/assets/3fd1fc07-bf9c-4fd3-92da-551d7fb5038d">
 </picture>
-
 <div align="center">
 
-# Hey, I'm Krupa Khokar
+# Hey, I'm Krupa Khokar 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=EF93C4&center=true&vCenter=true&width=650&lines=Aspiring+AI%2FML+Engineer;Exploring+Data+Science;Learning+Machine+Learning;Building+My+Future+in+Technology" alt="Typing introduction">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1800&color=EF93C4&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;Interested+in+Data+Science;Exploring+Machine+Learning;Exploring+Artificial+Intelligence+%26+Machine+Learning;Building+with+AI" alt="Aspiring Software Developer, Interested in Data Science, Exploring Machine Learning, Exploring Artificial Intelligence and Machine Learning, Building with AI">
 
 </div>
 
@@ -16,13 +15,13 @@
 
 ## 🌷 About Me
 
-- 🎓 Pursuing a **B.E in Information Technology**, building a strong foundation in software and emerging technologies.
+- 🎓 Pursuing a **B.E. in Information Technology**, building a strong foundation in software development and computer science.
 - 💻 Diploma in **Computer Engineering** with an outstanding **9.54 CGPA**.
-- 🤖 Aspiring **AI/ML Engineer** passionate about Artificial Intelligence, Machine Learning, and Data Science.
-- 🧠 Exploring intelligent systems, data-driven solutions, and practical applications of AI.
-- 🥇 **Smart India Hackathon 2025 — Internal Hackathon Winner**, contributing as a team member.
-- 🏆 **Smart India Hackathon 2026 — Internal Hackathon Winner (Team Leader)**, securing **6th rank among 80 teams**.
-- 🚀 Driven by curiosity, continuous learning, and the ambition to transform innovative ideas into meaningful technological solutions.
+- 👩🏻‍💻 Aspiring **Software Developer**, focused on programming, problem-solving, and software development.
+- 📊 Interested in **Data Science** and discovering insights through data.
+- 🤖 Exploring **Machine Learning and Artificial Intelligence** alongside my software engineering journey.
+- 🚀 Building projects, learning new technologies, and turning ideas into practical solutions.
+- 🏆 Participated in Smart India Hackathon internal hackathons in 2025 and 2026, gaining experience in teamwork, leadership, and problem-solving.
 
 ---
 
@@ -32,7 +31,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>💻 Bachelor's Degree</h3>
-      <b>B.E in Information Technology</b>
+      <b>B.E. in Information Technology</b>
       <br>
       Currently pursuing
     </td>
@@ -41,7 +40,6 @@
       <b>Diploma in Computer Engineering</b>
       <br>
       <b>CGPA: 9.54</b>
-      <br><br>
     </td>
   </tr>
 </table>
@@ -53,17 +51,18 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Internal Smart India Hackathon 2025</h3>
-      <img src="https://img.shields.io/badge/INTERNAL-WINNER-EF93C4?style=for-the-badge" alt="Internal winner">
+      <h3>Smart India Hackathon 2025</h3>
+      <img src="https://img.shields.io/badge/INTERNAL_HACKATHON-WINNER-EF93C4?style=for-the-badge" alt="Internal Hackathon Winner">
       <br><br>
-      <b>Team Member</b>
+      <b>Role:</b> Team Member
     </td>
     <td width="50%" valign="top">
-      <h3>Internal Smart India Hackathon 2026</h3>
-      <img src="https://img.shields.io/badge/INTERNAL-WINNER-FF69B4?style=for-the-badge" alt="Internal winner">
+      <h3>Smart India Hackathon 2026</h3>
+      <img src="https://img.shields.io/badge/INTERNAL_HACKATHON-WINNER-FF69B4?style=for-the-badge" alt="Internal Hackathon Winner">
       <br><br>
-      <b>Team Leader</b>
+      <b>Role:</b> Team Leader
       <br>
+      <b>Achievement:</b> 6th rank among 80 teams
     </td>
   </tr>
 </table>
@@ -76,38 +75,45 @@
 
 ### 👨‍💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,js" alt="C, C++, Java, Python, Dart and JavaScript" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,js" alt="C, C++, Java, Python, Dart and JavaScript">
 
 ### 🌐 Web Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS and JavaScript" />
+<img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS and JavaScript">
 
 ### 📱 Mobile App Development
 
-<img src="https://skillicons.dev/icons?i=flutter,androidstudio" alt="Flutter and Android Studio" />
+<img src="https://skillicons.dev/icons?i=flutter,androidstudio" alt="Flutter and Android Studio">
 
 ### 📊 Data Science & Machine Learning
 
-<img src="https://cdn.simpleicons.org/numpy/013243" height="45" alt="NumPy" />
-<img src="https://cdn.simpleicons.org/pandas/150458" height="45" alt="Pandas" />
-<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="45" alt="Scikit-learn" />
+<img src="https://cdn.simpleicons.org/numpy/013243" height="45" alt="NumPy">
+<img src="https://cdn.simpleicons.org/pandas/150458" height="45" alt="Pandas">
+<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="45" alt="Scikit-learn">
 
 ### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="MySQL and MongoDB" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="MySQL and MongoDB">
 
 ### 🛠️ Development Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and Visual Studio Code" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and Visual Studio Code">
 
-### 🚀 Currently Exploring AI/ML
+### 🚀 Exploring AI & Generative AI
 
-<img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="45" alt="LangChain" />
-<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="45" alt="Google Gemini" />
-<img src="https://raw.githubusercontent.com/chroma-core/chroma/main/docs/assets/chroma-wordmark-color.png" height="45" alt="ChromaDB" />
-</p>
+<img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="45" alt="LangChain">
+<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="45" alt="Google Gemini">
+<img src="https://raw.githubusercontent.com/chroma-core/chroma/main/docs/assets/chroma-wordmark-color.png" height="45" alt="ChromaDB">
 
 </div>
+
+---
+
+## 📂 Featured Projects
+
+- 🤖 **BIS Sahayak** — An AI-powered assistant for discovering and understanding BIS standards and services.
+- 🌉 **CivicSetu** — A civic-focused project addressing real-world community challenges.
+- 📊 **Loan Risk Classifier** — A machine learning project that predicts loan approval outcomes using applicant data.
 
 ---
 
@@ -139,6 +145,8 @@
   <img src="https://ghchart.rshah.org/E879B9/thekrupakhokar" alt="Krupa's GitHub Contribution Calendar" width="100%">
 </p>
 
+---
+
 ## 🌐 Let's Connect
 
 <div align="center">
@@ -146,17 +154,17 @@
 <a href="https://www.linkedin.com/in/krupa-khokar-53001b250/">
   <img src="https://img.shields.io/badge/LinkedIn-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-  <a href="https://mail.google.com/mail/?view=cm&to=thekrupakhokar%40gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-E879B9?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
+<a href="https://mail.google.com/mail/?view=cm&to=thekrupakhokar%40gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-E879B9?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+
 <br><br>
 
-<p align="center">
-  <i>✨ Turning curiosity into innovation. Building technology that moves the future forward. ✨</i>
-</p>
+<i>✨ Learning, building, and turning ideas into technology. ✨</i>
 
 </div>
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/6ecd9948-b7cf-4011-a93c-3057553a4633" width="100%" alt="Krupa Khokar social media banner">
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/6c37a022-9f8f-49e5-969f-a9d4a180e42f">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/08ef3da0-b0c0-4619-9a44-da1d559f0b09">
+  <img width="100%" alt="Krupa Khokar social media banner" src="https://github.com/user-attachments/assets/08ef3da0-b0c0-4619-9a44-da1d559f0b09">
+</picture>
