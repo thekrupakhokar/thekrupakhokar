@@ -5,9 +5,7 @@
 </picture>
 <div align="center">
 
-# Hey, I'm Krupa Khokar 👋
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1800&color=EF93C4&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;Interested+in+Data+Science;Exploring+Machine+Learning;Exploring+Artificial+Intelligence+%26+Machine+Learning;Building+with+AI" alt="Aspiring Software Developer, Interested in Data Science, Exploring Machine Learning, Exploring Artificial Intelligence and Machine Learning, Building with AI">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1800&color=EF93C4&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Exploring+Artificial+Intelligence+%26+Machine+Learning" alt="Aspiring Software Developer, Interested in Data Science, Exploring Machine Learning, Exploring Artificial Intelligence and Machine Learning, Building with AI">
 
 </div>
 
@@ -18,10 +16,8 @@
 - 🎓 Pursuing a **B.E. in Information Technology**, building a strong foundation in software development and computer science.
 - 💻 Diploma in **Computer Engineering** with an outstanding **9.54 CGPA**.
 - 👩🏻‍💻 Aspiring **Software Developer**, focused on programming, problem-solving, and software development.
-- 📊 Interested in **Data Science** and discovering insights through data.
 - 🤖 Exploring **Machine Learning and Artificial Intelligence** alongside my software engineering journey.
 - 🚀 Building projects, learning new technologies, and turning ideas into practical solutions.
-- 🏆 Participated in Smart India Hackathon internal hackathons in 2025 and 2026, gaining experience in teamwork, leadership, and problem-solving.
 
 ---
 
@@ -109,13 +105,6 @@
 
 ---
 
-## 📂 Featured Projects
-
-- 🤖 **BIS Sahayak** — An AI-powered assistant for discovering and understanding BIS standards and services.
-- 🌉 **CivicSetu** — A civic-focused project addressing real-world community challenges.
-- 📊 **Loan Risk Classifier** — A machine learning project that predicts loan approval outcomes using applicant data.
-
----
 
 ## 📊 GitHub Statistics
 
